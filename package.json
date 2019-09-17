@@ -1,0 +1,14 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cdesky/reptile.git",
+  "author": "冬哥 <1234@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
